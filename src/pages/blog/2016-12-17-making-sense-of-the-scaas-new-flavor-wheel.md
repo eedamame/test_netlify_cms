@@ -14,6 +14,7 @@ result: |-
   | 1    | GBR Hannah Mills / Saskia Clark             |
   | 2    | BRA Fernanda Oliveira / Ana Luiza Barbachan |
   | 3    | FRA Camille Lecointre / Helene Defrance     |
+sample: サンプルです。
 ---
 テスト
 ![flavor wheel](/img/flavor_wheel.jpg)
