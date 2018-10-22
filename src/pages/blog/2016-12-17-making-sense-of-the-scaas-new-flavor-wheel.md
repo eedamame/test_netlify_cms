@@ -2,10 +2,18 @@
 templateKey: blog-post
 title: Making sense of the SCAA’s new Flavor Wheel
 date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: >-
+  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
+  tasters, has been revised for the first time this year.
 tags:
   - flavor
   - tasting
+result: |-
+  | 順位 | 氏名                                        |
+  |------|---------------------------------------------|
+  | 1    | GBR Hannah Mills / Saskia Clark             |
+  | 2    | BRA Fernanda Oliveira / Ana Luiza Barbachan |
+  | 3    | FRA Camille Lecointre / Helene Defrance     |
 ---
 
 ![flavor wheel](/img/flavor_wheel.jpg)
