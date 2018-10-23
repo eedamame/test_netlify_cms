@@ -1,33 +1,49 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+templateKey: blog-post
+title: 2016 Sailing World Cup Hyeres
+date: 2016-04-24T15:04:00.000Z
+description: セーリングワールドカップ・イエール大会
 tags:
   - jamaica
   - green beans
   - flavor
   - tasting
 ---
+## セーリングワールドカップ・イエール大会
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+## 成績11位
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+2016年ヨーロッパ遠征のメインステージ「セーリングワールドカップ・イエール大会」が開催された。フランス南東部、プロヴァンス地方イエールは、セーリングファンには馴染みの場所。地中海特有の紺碧の海とアルプスから吹き下ろす強風「ミストラル」は大会の名物で、この強烈な北風が屈強なセーラーを育ててきた。
 
-## A little history
+4月後半のイエールは、春とはいえまだ肌寒い。海水は冷たく、ミストラルが吹き出せば気温は日本の真冬並に下がる。それでも、選手たちがこの大会を好んで出場するのは、安定した風と質の高い運営、五輪を目指すハイレベルな選手が集まるからである。リオ五輪まで100日を切り、出場できる大会が少ない中で、1レース1レースが貴重な経験になる。
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+今年も大会初日は、期待通りのミストラルが吹いた。ボートをなぎ倒すほどの強風でレースがおこなわれ、ベネッセセーリングチームも翻弄される結果となった。
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+セーリングワールドカップは４日間の予選８レースの合計得点と最終日の決勝レースで構成されている。決勝レースに出場するには、予選で10位以内に入らなければならない。シリーズの流れを決める初日のレースは、より重要になってくるが、ベネッセチームは波をつかみそこねたことで、苦しい戦いを強いられることになった。
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+「風が強いのは苦手ではありません。でも、初日に失敗が重なってしまったのは、集中力が欠けていたからだと思う。レース初日の戦い方の重要性をあらためて学びました。2日目から気持ちを修正して挑んで追い上げましたが、トップ10に入れなかったのは残念です」（吉田 愛）
 
-## What you need to know before trying
+強風は初日のみで、残りのレースは風の弱い場面も多く、リオデジャネイロを想定した風も吹いた。昨年からベネッセチームが課題にしている「リオの風」である。このなかで後位置から追い抜くことができたのは、本大会の収穫でもある。チームの最終成績は11位で決勝レース進出を逃した。
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+「最終レースで風が落ちてしまい、追い抜きにくい状況になってしまったのは残念でした。結果は4位でしたが、いまは大会で結果を出すよりも、オリンピックに向けた取り組みの中で、いかに自分たちのウィークポイントをなくしていくかをテーマにしています。その点では、課題にしている弱い風でもミスが減ってきているし、結果になっている。よい成果が得られました」（吉田愛）
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+ベネッセチームは、フランス・イエールを後にリオデジャネイロ入りして現地トレーニングを開始する。8月オリンピックまでの残された時間で最大限の成長を見せてくれることだろう。
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+## 成績
+
+## セーリングワールドカップ・イエール大会 470級女子成績
+
+| 順位  | 氏名                                          |
+| --- | ------------------------------------------- |
+| 1   | GBR Hannah Mills / Saskia Clark             |
+| 2   | BRA Fernanda Oliveira / Ana Luiza Barbachan |
+| 3   | FRA Camille Lecointre / Helene Defrance     |
+
+## 大会情報
+
+|        |                                                |
+| ------ | ---------------------------------------------- |
+| 大会名：   | セーリングワールドカップ・イエール大会                            |
+| 日時：    | 2016年4月25日～5月1日                                |
+| 場所：    | Base Nautique Municipale Hyeres, France        |
+| 公式サイト： | [http//swc.ffvoile.fr/](http//swc.ffvoile.fr/) |
